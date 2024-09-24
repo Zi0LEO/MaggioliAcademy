@@ -15,7 +15,7 @@ public class MediaAdapter implements MediaPlayer{
         }
 
     private String convertToVLC(String name){
-        //riformatta mp3 in vlc
+        // riformatta mp3 in vlc //
         name = name.replaceAll("mp3", "vlc");
         return name;
     }
