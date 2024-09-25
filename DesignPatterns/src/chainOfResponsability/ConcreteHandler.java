@@ -2,7 +2,7 @@ package chainOfResponsability;
 
 public class ConcreteHandler extends BaseHandler{
 
-    int LEVEL;
+    final int LEVEL;
 
     public ConcreteHandler(int i){
         LEVEL = i;
