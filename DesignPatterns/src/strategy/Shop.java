@@ -1,7 +1,5 @@
 package strategy;
 
-import jdk.jshell.Snippet;
-
 public class Shop {
     private DeliveryStrategy strategy;
 
