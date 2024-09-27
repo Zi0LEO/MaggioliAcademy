@@ -1,5 +1,5 @@
 package strategy;
-
+f
 public class Shop {
     private DeliveryStrategy strategy;
 
